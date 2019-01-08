@@ -6,7 +6,7 @@
       *
       *                                         
       * Added by Robin and Bill 1/5/19          
-      * Modified by Robin on 1/7/19             
+      * Modified by Robin on 1/7/19 part 2            
       
        ENVIRONMENT DIVISION.
        DATA DIVISION.
