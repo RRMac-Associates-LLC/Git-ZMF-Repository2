@@ -31,7 +31,7 @@
            05 INCL-31-A PIC X.
            05 INCL-31-B PIC 9999.
            05 INCL-41-A PIC X.
-           05 INCL-41-B PIC 9999.			
+           05 INCL-41-B PIC 9999.
 
        PROCEDURE DIVISION.
       * NO-DB2
