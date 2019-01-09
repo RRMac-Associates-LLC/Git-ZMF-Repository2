@@ -8,7 +8,7 @@
        DATA DIVISION.
        WORKING-STORAGE SECTION.
       * NO-DB2
-      * NO-DB2
+      * NO-DB2 AND COPYBOOK EXPANDED
       *     COPY
       *      RRMBC196.
       *
