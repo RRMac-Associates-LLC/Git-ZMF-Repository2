@@ -2,7 +2,7 @@
        PROGRAM-ID. RRMBS196.
       *
       * Generated COBOL program
-      * Modified by RRMAC Associates LLC on 17 Jan 2019 
+      * Modified by RRMAC Associates LLC on 18 Jan 2019 
       *
        ENVIRONMENT DIVISION.
        DATA DIVISION.
